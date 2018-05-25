@@ -1,0 +1,11 @@
+E:\GitMytest\MyRabbitMQ\MyRabbitMQ\bin\Debug\MyRabbitMQ.exe.config
+E:\GitMytest\MyRabbitMQ\MyRabbitMQ\bin\Debug\MyRabbitMQ.exe
+E:\GitMytest\MyRabbitMQ\MyRabbitMQ\bin\Debug\MyRabbitMQ.pdb
+E:\GitMytest\MyRabbitMQ\MyRabbitMQ\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+E:\GitMytest\MyRabbitMQ\MyRabbitMQ\bin\Debug\RabbitMQ.Client.dll
+E:\GitMytest\MyRabbitMQ\MyRabbitMQ\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+E:\GitMytest\MyRabbitMQ\MyRabbitMQ\bin\Debug\RabbitMQ.Client.xml
+E:\GitMytest\MyRabbitMQ\MyRabbitMQ\obj\Debug\MyRabbitMQ.csprojResolveAssemblyReference.cache
+E:\GitMytest\MyRabbitMQ\MyRabbitMQ\obj\Debug\MyRabbitMQ.csproj.CoreCompileInputs.cache
+E:\GitMytest\MyRabbitMQ\MyRabbitMQ\obj\Debug\MyRabbitMQ.exe
+E:\GitMytest\MyRabbitMQ\MyRabbitMQ\obj\Debug\MyRabbitMQ.pdb
